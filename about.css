@@ -1,0 +1,24 @@
+body{
+    background-color: #ffffff;
+    line-height: 1.8rem;
+}
+
+.img-fluid{
+    width:35rem;
+    margin:2rem;
+    margin-top:0;
+    padding-top:0;
+}
+
+#about-text{
+    padding-top:5rem;
+    padding-right:5rem;
+}
+
+#foot{
+    text-align:center;
+    color:black;
+}
+
+a:hover,a:visited { color:#000; }
+
